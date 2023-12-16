@@ -7,7 +7,7 @@
 }
 .box
 {
-    background-image: url("IMAGES/plain.gif");
+    background-image: url("images/plain.gif");
     background-repeat: no-repeat;
     background-size: cover;
     height:800px;
@@ -22,13 +22,13 @@
     padding:2px;
     border-radius: 10px;
     box-shadow: 5px 5px gray;
-    margin-left:350px;
+    margin-left:500px;
    
 }
 .row
 {
     margin-top:50px;
-
+    width:1300px;
     
 }
 .fa
@@ -37,11 +37,11 @@
 }
 .box-part{
     background-color: whitesmoke;
-    margin-right:px;
+    margin-right:90px;
     border:2px solid black;
     box-shadow:10px 10px black;
     border-radius:5px;
-  
+    height:290px;
 }
 .col-4
 {
